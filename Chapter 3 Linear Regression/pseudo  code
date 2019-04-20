@@ -1,0 +1,15 @@
+/*
+	We will use the 5 points on the book to code    
+	
+        1. Initialize w0 = w1 = 1
+
+	2. w0 and w1 should be updated in every iteration in a way such that J(w0, w1) gradually decreases.  
+
+	3. After a certain point the value of J(w0, w1) will not decrease significantly- in 4-5 iterations the value will not go below 		   0.001. Stop running the loop then. 
+
+	4. The minimal values of w0 and w1 obtained are the optimal values for which we get min J(w0, w1). 
+
+	5. Plug in the new values of w0 and w1 in the hypothesis.     
+
+*/
+
